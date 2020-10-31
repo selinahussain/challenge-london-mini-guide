@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/selinahussain/challenge-london-mini-guide#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.6"
   },
   "devDependencies": {}
