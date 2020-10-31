@@ -16,15 +16,15 @@ app.get("/pharmacies", (req, res) => {
   res.json(stratfordData.pharmacies);
 })
 
-app,get("/colleges", (req, res) => {
+app.get("/colleges", (req, res) => {
   res.json(stratfordData.colleges);
 })
 
-app,get("/doctors", (req, res) => {
+app.get("/doctors", (req, res) => {
   res.json(stratfordData.doctors);
 })
 
-app,get("/hospitals", (req, res) => {
+app.get("/hospitals", (req, res) => {
   res.json(stratfordData.hospitals);
 })
 
